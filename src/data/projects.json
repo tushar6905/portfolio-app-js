@@ -22,5 +22,13 @@
     "skills": ["React", "Axios"],
     "demo": "https://tushar-sharma-quiz-app.netlify.app/",
     "source": "https://github.com/tushar6905/quiz-app-js"
+  },
+  {
+    "title": "Scientific Calculator",
+    "imageSrc": "projects/calci.png",
+    "description": "A Scientific calculator where we can perform various actions like a real one",
+    "skills": ["React"],
+    "demo": "https://tushar-sharma-scientific-calculator.netlify.app/",
+    "source": "https://github.com/tushar6905/calculator-js"
   }
 ]
