@@ -1,0 +1,57 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png",
+    "link" : "https://www.w3schools.com/html/html_intro.asp"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png",
+    "link": "https://www.w3schools.com/css/css_intro.asp"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png",
+    "link": "https://www.w3schools.com/js/js_intro.asp"
+  },
+  {
+    "title": "Git Git-Hub",
+    "imageSrc": "skills/git.png",
+    "link":"https://www.w3schools.com/git/default.asp"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png",
+    "link":"https://www.w3schools.com/whatis/whatis_react.asp"
+  },
+  {
+    "title": "React-Native",
+    "imageSrc": "skills/react-native.png",
+    "link": "https://reactnative.dev/docs/environment-setup"
+  },
+  {
+    "title": "Node JS",
+    "imageSrc": "skills/node.png",
+    "link":"https://www.w3schools.com/nodejs/nodejs_intro.asp"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/firebase.png",
+    "link":"https://firebase.google.com/"
+  },
+  {
+    "title": "Express JS",
+    "imageSrc": "skills/express.png",
+    "link":"https://www.geeksforgeeks.org/express-js/"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png",
+    "link":"https://www.w3schools.com/sql/sql_intro.asp"
+  },
+  {
+    "title": "Mongo Db",
+    "imageSrc": "skills/mongo.png",
+    "link":"https://www.mongodb.com/company/what-is-mongodb"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weatherApp.png",
+    "description": "A Weather App where we can search for our city and get the weather details of that city.",
+    "skills": ["React", "Axios"],
+    "demo": "https://tushar-sharma-weather-app.netlify.app/",
+    "source": "https://github.com/tushar6905/Weather-app-js"
+  },
+  {
+    "title": "To-Do-App",
+    "imageSrc": "projects/to-do-list.png",
+    "description": "A simple To-Do App where we can add, delete and mark the task as completed.",
+    "skills": ["React","Css"],
+    "demo": "https://tushar-sharma-to-do-list.netlify.app/",
+    "source": "https://github.com/tushar6905/to-do-js"
+  },
+  {
+    "title": "Quiz App",
+    "imageSrc": "projects/quiz-app.png",
+    "description": "A Dynamic and Responsive Quiz app where we can check our knowledge.",
+    "skills": ["React", "Axios"],
+    "demo": "https://tushar-sharma-quiz-app.netlify.app/",
+    "source": "https://github.com/tushar6905/quiz-app-js"
+  }
+]
