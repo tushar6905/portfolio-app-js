@@ -30,5 +30,13 @@
     "skills": ["React"],
     "demo": "https://tushar-sharma-scientific-calculator.netlify.app/",
     "source": "https://github.com/tushar6905/calculator-js"
+  },
+  {
+    "title": "demo demo",
+    "imageSrc": "projects/project.png",
+    "description": "A Scientific calculator where we can perform various actions like a real one",
+    "skills": ["React"],
+    "demo": "https://tushar-sharma-scientific-calculator.netlify.app/",
+    "source": "https://github.com/tushar6905/calculator-js"
   }
 ]
