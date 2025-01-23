@@ -6,7 +6,7 @@ const Hero = () => {
     <section className={styles.container}>
         <div className={styles.content}>
             <h1 className={styles.title}>
-                Hi, I'm new new new Sharma
+                Hi, I'm Tushar Sharma
             </h1>
             <p className={styles.description}>
                 I'm a front-end developer who can build Websites and Hybrid Mobile Apps using React JS and React Native. Soon going to become a full-stack developer 
