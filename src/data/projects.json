@@ -30,5 +30,13 @@
     "skills": ["React"],
     "demo": "https://tushar-sharma-scientific-calculator.netlify.app/",
     "source": "https://github.com/tushar6905/calculator-js"
+  },
+  {
+    "title": "Word to PDF",
+    "imageSrc": "projects/wordToPDF.png",
+    "description": "A WORD to PDF ehre you can convert your word file to PDF without any hassle or any external software.",
+    "skills": ["React","Node","TailWind"],
+    "demo": "https://tushar-sharma-word-to-pdf.netlify.app/",
+    "source": "https://github.com/tushar6905/frontend-of-word-to-pdf"
   }
 ]
