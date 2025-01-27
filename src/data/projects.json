@@ -38,5 +38,21 @@
     "skills": ["React","Node","TailWind"],
     "demo": "https://tushar-sharma-word-to-pdf.netlify.app/",
     "source": "https://github.com/tushar6905/frontend-of-word-to-pdf"
+  },
+  {
+    "title": "Tic Tac Toe",
+    "imageSrc": "projects/tictactoe.png",
+    "description": "A simple nostraligic game of Tic Tac Toe created using custom hook and is very easy to play as well",
+    "skills": ["React","CSS"],
+    "demo": "https://tushar-sharma-tic-tac-toe.netlify.app/",
+    "source": "https://github.com/tushar6905/tic-tac-toe-js"
+  },
+  {
+    "title": "Markdown Editor",
+    "imageSrc": "projects/markdown.png",
+    "description": "A Markdown editor is a tool to write formatted text using simple syntax, often with a live preview and export options.",
+    "skills": ["React","CSS","Axios"],
+    "demo": "https://tushar-sharma-markdown-editor-app-js.netlify.app/",
+    "source": "https://github.com/tushar6905/markdown-app-js"
   }
 ]
