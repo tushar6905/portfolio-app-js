@@ -91,5 +91,12 @@
     }
     .content{
         align-items: center;
+    }.resumeMail{
+        /* background-color: pink; */
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+    }.contactBtn{
+        font-size: 20px;
     }
 }
