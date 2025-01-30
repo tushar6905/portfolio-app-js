@@ -50,9 +50,17 @@
   {
     "title": "Markdown Editor",
     "imageSrc": "projects/markdown.png",
-    "description": "A Markdown editor is a tool to write formatted text using simple syntax, often with a live preview and export options.",
+    "description": "A Markdown editor is a tool to write formatted text using simple syntax, often with a live preview .",
     "skills": ["React","CSS","Axios"],
     "demo": "https://tushar-sharma-markdown-editor-app-js.netlify.app/",
     "source": "https://github.com/tushar6905/markdown-app-js"
+  },
+  {
+    "title": "Flip Game",
+    "imageSrc": "projects/flipgame.png",
+    "description": "A nostraligic flip game also known as memory game where you have to flip the cards and match the pairs.",
+    "skills": ["React","TailWind"],
+    "demo": "https://tushar-sharma-flip-game.netlify.app/",
+    "source": "https://github.com/tushar6905/flip-game"
   }
 ]
