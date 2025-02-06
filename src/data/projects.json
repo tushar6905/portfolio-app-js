@@ -62,5 +62,12 @@
     "skills": ["React","TailWind"],
     "demo": "https://tushar-sharma-flip-game.netlify.app/",
     "source": "https://github.com/tushar6905/flip-game"
+  },
+  {
+    "title": "Todo MERN",
+    "imageSrc": "projects/todoMERN.png",
+    "description": "A simple MERN To-Do App where we can add, delete and mark the task as completed.",
+    "skills": ["React","Mongo"],
+    "source": "https://github.com/tushar6905/todo-mern-frontend"
   }
 ]
