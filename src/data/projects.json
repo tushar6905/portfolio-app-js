@@ -8,12 +8,12 @@
     "source": "https://github.com/tushar6905/Weather-app-js"
   },
   {
-    "title": "To-Do-App",
-    "imageSrc": "projects/to-do-list.png",
-    "description": "A simple To-Do App where we can add, delete and mark the task as completed.",
-    "skills": ["React","Css"],
-    "demo": "https://tushar-sharma-to-do-list.netlify.app/",
-    "source": "https://github.com/tushar6905/to-do-js"
+    "title": "E-coomerce",
+    "imageSrc": "projects/e-commerce.png",
+    "description": "A fully responsive frontend focused E-commerce app having various animations and dark-light mode",
+    "skills": ["React","TailWind"],
+    "demo": "https://tushar-sharma-e-commerce.netlify.app/",
+    "source": "https://github.com/tushar6905/e-commerce-js"
   },
   {
     "title": "Quiz App",
@@ -22,6 +22,14 @@
     "skills": ["React", "Axios"],
     "demo": "https://tushar-sharma-quiz-app.netlify.app/",
     "source": "https://github.com/tushar6905/quiz-app-js"
+  },
+  {
+    "title": "To-Do-App",
+    "imageSrc": "projects/to-do-list.png",
+    "description": "A simple To-Do App where we can add, delete and mark the task as completed.",
+    "skills": ["React","Css"],
+    "demo": "https://tushar-sharma-to-do-list.netlify.app/",
+    "source": "https://github.com/tushar6905/to-do-js"
   },
   {
     "title": "Scientific Calculator",
