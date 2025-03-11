@@ -10,6 +10,11 @@
     "link": "https://www.w3schools.com/css/css_intro.asp"
   },
   {
+    "title":"Tailwind CSS",
+    "imageSrc":"skills/tailwind.png",
+    "link":"https://tailwindcss.com/" 
+  },
+  {
     "title": "JavaScript",
     "imageSrc": "skills/javascript.png",
     "link": "https://www.w3schools.com/js/js_intro.asp"
