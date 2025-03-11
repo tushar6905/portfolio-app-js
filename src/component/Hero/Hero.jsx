@@ -13,7 +13,7 @@ const Hero = () => {
             </p>
             <div className={styles.resumeMail}>
             <a href="mailto:mithusharma67890@gmail.com"className={styles.contactBtn} target='blank'>Contact Me</a>
-            <a style={{marginLeft:10}} href="https://drive.google.com/file/d/1RNQxzbByueHG5J8FH6fTn38uKIjq9053/view"className={styles.contactBtn} target='blank'>My Resume</a>
+            <a style={{marginLeft:10}} href="https://drive.google.com/file/d/1ZAbbPacsKQskZa-pfxICnVLPwYbwyNxQ/view?usp=drivesdk"className={styles.contactBtn} target='blank'>My Resume</a>
             </div>
         </div>
         <img src={getImageUrl("hero/heroImage.png")} alt="My Image" className={styles.heroImg} />
